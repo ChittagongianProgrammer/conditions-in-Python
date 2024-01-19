@@ -37,4 +37,3 @@ This implements a simple calculator application with different math operations.
 - Uses if, elif conditional checks to pick the operation.
 - Prints output rounded to 3 decimal places.
 
-Let me know if any part needs more explanation or expansion!
